@@ -24,3 +24,17 @@ What is PolyMorphism:
  =================================================================================================================================
 
 What is Abstraction :
+Abstraction is providing only the necessarry detials and hiding all implementations details.
+why should we learn Abstraction:
+1) it reduces the complexity by separating the idea from implementation.
+2) it helps use rules and convey our requirments.
+How can we use Abstracton:
+    1) create classes with abstract keyword.
+    2) use the abstract keyword with method header and don't provied the body of that method inside the parent class.
+    3) create the child classes and extend those classes from the parent class and implement the abstract methods.
+    4) if we don't want to provide the implementation one or more method we can decalre the child class as asbtract as well.
+    5)
+
+
+
+
